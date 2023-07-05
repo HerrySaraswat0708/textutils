@@ -7,7 +7,7 @@ TextUtils is a dynamic website built using React.js that allows users to manipul
 3. Calculate the number of characters and words in the text.
 
 # Live Demo
-You can access the live demo of TextUtils at: TextUtils Live Demo
+You can access the live demo of TextUtils at: [TextUtils Live Demo](https://herrysaraswat0708.github.io/textutils/)
 
 # Usage
 To run TextUtils on your local machine, follow these steps:
